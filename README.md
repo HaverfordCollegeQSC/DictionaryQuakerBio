@@ -1,5 +1,4 @@
 # DictionaryQuakerBio
-Holding OCR'd Dictionary of Quaker Biography (DQB) materials
 
 The Dictionary of Quaker Biography is a compilation of two sources - one biography from Frends House Library, London, and the other from Haverford College Quaker & Special Collections.
 
